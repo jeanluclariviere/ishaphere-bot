@@ -1,7 +1,8 @@
 // Require the necessary discord.js classes
 const fs = require('fs');
 const { Client, Collection, Intents, MessageActionRow,MessageSelectMenu } = require('discord.js');
-const { token } = process.env.DISCORD_TOKEN
+const { limitChannel, token } = require('./config.json');
+
 
 // Create a new client instance
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
@@ -31,11 +32,21 @@ for (const file of eventFiles) {
 
 client.on('interactionCreate', async interaction => {
 	if (!interaction.isCommand()) return;
-	
-	if (interaction.channelId != '916573995388797018') {
-		await interaction.reply({ content: 'Invalid - Please use the bot-testing channel.', ephemeral: true });
-		return;
+	try {
+
 	}
+	catch (error) {
+
+	}
+	if (limitChannel){
+		if (interaction.channelId != limitChannel) {
+			limitChannelName = client.channels.cache.get(limitChannel).name
+			await interaction.reply({ content: 'Insufficient privileges - Bot has been restricted to channel #' + limitChannelName + ".", ephemeral: true });
+			return;
+			
+		}
+	}
+
 
 	const command = client.commands.get(interaction.commandName);
 
