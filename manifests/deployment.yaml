@@ -1,0 +1,27 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ishaphere-bot
+  namespace: ishaphere
+  labels:
+    app: ishaphere-bot
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ishaphere-bot
+  template:
+    metadata:
+      labels:
+        app: ishaphere-bot
+    spec:
+      containers:
+      - name: ishaphere-bot
+        image: jeanluclariviere/ishaphere-bot:v0.1.0
+        env:
+          - name: DISCORD_TOKEN
+            valueFrom:
+              secretKeyRef:
+                name: discord-token
+                key: DISCORD_TOKEN
