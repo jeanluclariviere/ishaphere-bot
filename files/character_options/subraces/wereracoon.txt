@@ -4,7 +4,7 @@ __**Wereraccoon**__
 
 When in Raccoon-humanoid form, gain the following abilities: 
 
-**Keen Smell: ****You have advantage on Wisdom (Perception) checks that rely on smell.
+**Keen Smell:** You have advantage on Wisdom (Perception) checks that rely on smell.
 
 **Sticky Fingers:** You gain proficiency in the Sleight of Hand skill.
 
