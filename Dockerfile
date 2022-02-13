@@ -24,4 +24,4 @@ COPY --from=dependencies /usr/src/app/prod_node_modules ./node_modules
 # copy app sources
 COPY . .
 
-ENTRYPOINT ["node", "index.js"]
+ENTRYPOINT ["node", "app.js"]
