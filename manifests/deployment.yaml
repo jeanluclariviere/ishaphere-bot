@@ -22,7 +22,8 @@ spec:
         imagePullPolicy: Always
         volumeMounts:
         - name: config
-          mountPath: "/usr/src/app/"
+          mountPath: /usr/src/app/config.json
+          subPath: config.json
           readOnly: true
       volumes:
       - name: config
