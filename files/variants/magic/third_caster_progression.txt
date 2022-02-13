@@ -1,0 +1,28 @@
+__**Third Caster Progression**__
+**Arcane Tricksters** and **Eldritch Knights** are third casters. Third casters start with two extra spells (from any school of magic) and gain an extra cantrip at 19th level, and they follow the spell slot progression as seen below:
+```
+╔═══════╤═══════════════════════════════╗
+║ Level │ 1st   2nd   Level   1st   2nd ║
+╟───────┼───────────────────────────────╢
+║ 1     │ -     -     1       -     -   ║
+║ 2     │ -     -     2       -     -   ║
+║ 3     │ 2     -     3       2     -   ║
+║ 4     │ 2     -     4       2     -   ║
+║ 5     │ 2     -     5       2     -   ║
+║ 6     │ 2     -     6       2     -   ║
+║ 7     │ 3     -     7       3     -   ║
+║ 8     │ 3     -     8       3     -   ║
+║ 9     │ 3     -     9       3     -   ║
+║ 10    │ 4     -     10      4     -   ║
+║ 11    │ 4     -     11      4     -   ║
+║ 12    │ 4     -     12      4     -   ║
+║ 13    │ 4     2     13      4     2   ║
+║ 14    │ 4     2     14      4     2   ║
+║ 15    │ 4     2     15      4     2   ║
+║ 16    │ 4     2     16      4     2   ║
+║ 17    │ 4     2     17      4     2   ║
+║ 18    │ 4     2     18      4     2   ║
+║ 19    │ 4     3     19      4     3   ║
+║ 20    │ 4     3     20      4     3   ║
+╚═══════╧═══════════════════════════════╝
+```

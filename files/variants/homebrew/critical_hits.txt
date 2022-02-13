@@ -1,0 +1,4 @@
+__**Critical Hits**__
+Roll damage normally, then tally the maximum possible from the damage dice and add this to your damage. 
+
+e.g. If a rogue regularly deals 1d4+1d6+3 damage, a critical hit would do the following, 1d4+1d6+4+6+3. The +4 corresponds to the d4 maximum, the +6 correspond to the d6 maximum.

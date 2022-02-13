@@ -1,0 +1,6 @@
+__**Gritty Realism (dmg p. 267)**__
+This variant uses a short rest of 8 hours and a long rest of 7 days.
+
+A long rest is a period of extended downtime, at least 7 days long, during which a character sleeps for at least 42 hours (6 hours a day) and performs no more than 126 hours 18 hours a day) of light activity, such as reading, talking, eating, or standing watch. If the rest is interrupted by a period of strenuous activity - at least 7 hours of walking, fighting, casting spells, or similar adventuring activity - the characters must begin the rest again to gain any benefit from it.
+
+**TL;DR (5-5-5)**: 5 short rests over the course of 5 days, no more than 16 hours apart, with less than 5 hours accumulated of walking, fighting, casting spells, or similar adventuring activity.

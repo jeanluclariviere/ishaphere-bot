@@ -1,0 +1,11 @@
+__**Wererat**__
+
+**Shapechanger*.*** You can use your action to polymorph into a rat-humanoid hybrid or back into your true form, which is humanoid. Any equipment you are wearing or carrying isn’t transformed. You revert to your true form when you die. 
+
+When in rat-humanoid form, gain the following abilities: 
+
+**Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+**Poison Resistance:** When in rat-humanoid form, you have resistance to poison damage, and you have advantage on saving throws against becoming poisoned.
+
+**Hearty:** When in rat-humanoid form, you have advantage on all Medicine checks that include disease.

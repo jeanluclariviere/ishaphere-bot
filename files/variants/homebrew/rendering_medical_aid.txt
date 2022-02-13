@@ -1,0 +1,2 @@
+**__Rendering Medical Aid**__
+A player can expend 1 use of a healer’s kit to roll a DC 10 Medicine (Wisdom) check on another character. On a success, they expend one of their own hit dice to heal that player.

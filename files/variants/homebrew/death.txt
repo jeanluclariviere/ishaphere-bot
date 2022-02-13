@@ -1,0 +1,4 @@
+__**Death**__
+A player dies if:
+  - They fail their death save.
+  - They are unconscious and bleeding out for 3 rounds of play.

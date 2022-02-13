@@ -1,0 +1,2 @@
+__**Slow Natural Healing (dmg p. 267)**__
+Characters don’t regain hit points at the end of a long rest. Instead, a character can spend Hit Dice to heal at the end of a long rest, just as with a short rest.

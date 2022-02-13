@@ -1,0 +1,19 @@
+__**Months**__
+```
+╔═══════╤══════════════════════════════╗
+║ Month │ Name    Event                ║
+╟───────┼──────────────────────────────╢
+║ 1     │ Ran                          ║
+║ 2     │ Vult    Midwinter Solstice   ║
+║ 3     │ Lust                         ║
+║ 4     │ Croak                        ║
+║ 5     │ Roots                        ║
+║ 6     │ Sin                          ║
+║ 7     │ Oso                          ║
+║ 8     │ Goa                          ║
+║ 9     │ Opos                         ║
+║ 10    │ Sake                         ║
+║ 11    │ Croma   High Winter Solstice ║
+║ 12    │ Vasil                        ║
+╚═══════╧══════════════════════════════╝
+```

@@ -1,0 +1,11 @@
+__**Injured**__
+You become injured anytime you are hit with 10 or more damage in a single attack or effect.
+
+**Once you are injured:**
+  - You cannot use Grit Your Teeth
+  - No roll you make benefits from an Attribute Bonus. Proficiency only.
+  - Your Dexterity no longer adds to your Armor Class
+
+**You are no longer injured when:**
+  - You receive 10 or more points of healing.
+  - You take a long rest.

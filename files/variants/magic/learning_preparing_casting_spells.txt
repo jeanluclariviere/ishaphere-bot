@@ -1,0 +1,9 @@
+__**Learning,  preparing and casting spells**__
+**Learnining and preparing**
+Must have an INT, WIS or CHA (as specified by class) of at least 10 + the spell’s level to be able to learn or cast a spell.
+
+**Casting**
+When casting a spell, make a constitution save DC 8 + spell level. 
+  - On a success, the spell is cast successfully, continue as normal
+  - Critical successes does not expend the slot and inflicts double effect.
+  - Critical failures causes the spell to fizzle, does not expend the slot, and causes you to roll on the Volatile Magic Table.

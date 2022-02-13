@@ -1,0 +1,4 @@
+__**Lingering Injuries (dmg p. 272)**__
+Roll on the lingering injuries table whenever one of the following happens:
+  - Take a critical hit
+  - Drop to 0 hit points (but not killed)

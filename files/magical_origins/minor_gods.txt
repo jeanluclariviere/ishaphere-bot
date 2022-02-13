@@ -1,0 +1,20 @@
+__**Minor Gods**__
+```
+╔═══════════════╤════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Spirit Animal │ Domain        Symbol                        Preferred Offerings                            ║
+╟───────────────┼────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Rat           │ Pestilence    Three rings interlinked       Cheeses, wines,confections                     ║
+║ Vulture       │ Despair       Eye with a tear               Bones, gristle, small animals                  ║
+║ Locust        │ Famine        A black line with a small     Plants, herbs, breads, rice                    ║
+║               │               dot high above                                                               ║
+║ Cockroach     │ Infestation   Upside down triangle          Dried meats, flour, spoiled milk, ceramics     ║
+║ Rooster       │ Fortune       Sun rising on a horizon       Coins, jewelry, red colored cloth              ║
+║ Ox            │ Fervor        Flame                         Wheat, ale, common metals, wooden ornaments    ║
+║ Swine         │ Birth         Sun                           Wool, Blankets, fruit rinds, corn              ║
+║ Goat          │ Jugdgement    Gavel                         Articles of clothing, blank parchments, quills ║
+║ Opossum       │ Devestation   Black sun                     Offspring, fire, armaments                     ║
+║ Snake         │ Deception     A snake with its tongue out   Alcoholic spirits, tobacco, leather            ║
+║ Crow          │ Avarice       Drop of blood                 Precious gems, blood, twigs, tufts of lint     ║
+║ Weasel        │ Cunning       Four lines crossed out        Thieve’s tools, dice, playing cards, silver    ║
+╚═══════════════╧════════════════════════════════════════════════════════════════════════════════════════════╝
+```

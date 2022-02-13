@@ -1,0 +1,2 @@
+__**Wizard**__
+Wizards start with only four 1st-level spells in their spellbooks and add only one free Wizard spell to their spellbooks upon leveling up. Additionally, Arcane Recovery restores a number of spell slots of a level up to a quarter of a character's Wizard level. For example, at 4th level, a Wizard would regain a 1st-level spell slot, but at 5th level, they could regain a 2nd-level spell slot or two 1st-level spell slots.

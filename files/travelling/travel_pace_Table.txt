@@ -1,0 +1,12 @@
+__**Travel Pace Table**__
+```
+╔════════════════╤════════════════════════════════════════╗
+║ Pace           │ Speed Modifier    Effect               ║
+╟────────────────┼────────────────────────────────────────╢
+║ Mounted Gallop │ 100% for 1 hour                        ║
+║ Fast           │ +50%              -5 penalty to Wisdom ║
+║                │                   (perception) scores  ║
+║ Normal         │ -                 -                    ║
+║ Slow           │ -25%              Able to use stealth  ║
+╚════════════════╧════════════════════════════════════════╝
+```

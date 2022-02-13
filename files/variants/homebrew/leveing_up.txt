@@ -1,0 +1,2 @@
+__**Leveling Up**__
+Player’s only gain earned XP after taking a long rest.

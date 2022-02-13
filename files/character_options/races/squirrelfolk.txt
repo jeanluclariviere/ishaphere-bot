@@ -1,0 +1,27 @@
+__**Squirrelfolk**__
+
+Mischievous creatures who emerged in the woodlands of Leefside, Squirrelfolk are famed for their quick wit and numerous mercantile companies.
+
+**Personality:**  Squirrelfolk are skittish, easily sidetracked, extremely devoted to their companions, and are constantly hungry. Their teenagers are known for assembling raiding parties to loot the hallucinogenic honey fields of surrounding Beefolk, much to their dismay.
+
+**Physical Description:**  Squirrelfolk have red fur, large hairy ears, and bushy tails. They are careful groomers and may sometimes be thought of as rather conceited, considering the effort spent on their physical appearance.
+
+**Alignment:** Squirrelfolk gravitate towards chaotic neutral alignment.
+
+**Squirrelfolk Racial Traits**
+
+**Ability Score Increase**: Your Dexterity score increases by 2, and your Constitution score increases by 1.
+
+**Age:** Squirrelfolk reach adulthood at age 10 and live up to 60 years.
+
+**Size:** Squirrelfolk are between 4 and 5 feet tall and weigh between 100 and 150 pounds. Your size is Medium.
+
+**Speed:** 30ft, climb 15 ft. 
+**Darkvision.** Accustomed to life in the forests, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+**Cheeks of Holding:** You can carry up to 5lb worth of goods in your cheeks, 2.5lb in each.
+
+**Keen Hearing and Smell:** You have advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+**Fight and Flight:** Whenever you damage a creature with an attack or a spell, you can take the Dash, Hide or Disengage action as a bonus action. You can do this a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Languages:** You can speak, read, and write Common and Squirrel.

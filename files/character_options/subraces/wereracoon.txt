@@ -1,0 +1,11 @@
+__**Wereraccoon**__
+
+**Shapechanger*.*** You can use your action to polymorph into a raccoon-humanoid hybrid or back into your true form, which is humanoid. Any equipment you are wearing or carrying isn’t transformed. You revert to your true form when you die. 
+
+When in Raccoon-humanoid form, gain the following abilities: 
+
+**Keen Smell: ****You have advantage on Wisdom (Perception) checks that rely on smell.
+
+**Sticky Fingers:** You gain proficiency in the Sleight of Hand skill.
+
+**Scrounge Around**: You can reroll an Investigation check that results in a 1, the new roll must be used. Gain advantage on Investigation checks if you have half your HP or less.

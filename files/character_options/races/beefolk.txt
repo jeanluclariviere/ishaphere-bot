@@ -1,0 +1,28 @@
+__**Beefolk**__
+
+These little but strong creatures frequently commit their lives to the production of honey and the protection of their hives.
+
+**Personality:** Beefolk travel in herds, are passionately devoted to their colony, and are readily agitated; they have a propensity to attack without notice, when displeased.
+
+**Physical Description:** Beefolk are immune to the effects of the hallucinogenic honey they produce. The waddle is their signature gait, and they are recognized for their round, fluffy, black and yellow coats that keep them warm. Despite their small stature, these creatures have hefty limbs, small wings on their backs, antennae on their heads, and tiny stingers on their bottoms.
+
+**Alignment:**  Beefolk gravitate towards lawful good alignment.
+
+**Beefolk Racial Traits**
+
+**Ability Score Increase**: Your Strength score increases by 2, and your Constitution score increases by 1.
+
+**Age:** Beefolk reach adulthood at age 5 and live up to 30 years.
+
+**Alignment**
+
+**Size**: Beefolk are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small.
+
+**Speed**: 25ft, fly 10ft.
+
+**Informal Pheromone:** You can communicate with any creature that can see and smell you within 60 ft. using a combination of pheromones and dancing.
+
+**Sting Like a Bee:** As a bonus action, roll a Melee Weapon Attack using strength (reach 5ft.) against a target. On a hit, they are poisoned for 1 minute and you both take damage equal to your level. Once you successfully use this trait, you can't use it again until you finish a short or long rest.
+**Flutter Step:** You do not provoke opportunity attacks when flying out of an enemy's reach. Forfeit your remaining movement after using this trait.
+
+**Languages:**  You can speak, read, and write Common and Bee.

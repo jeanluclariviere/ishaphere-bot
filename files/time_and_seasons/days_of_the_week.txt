@@ -1,0 +1,15 @@
+__**Days of the Week**__
+```
+╔══════════╤════════════╗
+║ Week Day │ Name       ║
+╟──────────┼────────────╢
+║ 1        │ Firstday   ║
+║ 2        │ Seconday   ║
+║ 3        │ Thirday    ║
+║ 4        │ Fourthday  ║
+║ 5        │ Fifthday   ║
+║ 6        │ Sixthday   ║
+║ 7        │ Seventhday ║
+║ 8        │ Last Day   ║
+╚══════════╧════════════╝
+```

@@ -1,0 +1,2 @@
+__**Bleeding Out**__
+When reduced to 0 Hit Points, you begin to bleed out. Only the medical or magical aid of a teammate or external effect can revive you by healing 1 or more HP. There is no concept of “down but stable”.

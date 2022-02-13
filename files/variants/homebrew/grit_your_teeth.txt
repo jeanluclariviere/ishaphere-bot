@@ -1,0 +1,2 @@
+__**Grit Your Teeth**__
+In combat or danger, make a constitution saving throw DC 10. If successful, you can immediately expend 1 Hit Dice.

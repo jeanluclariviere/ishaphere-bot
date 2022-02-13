@@ -1,0 +1,2 @@
+__**Potions**__
+Potion effects activate ten minutes after consumption.
