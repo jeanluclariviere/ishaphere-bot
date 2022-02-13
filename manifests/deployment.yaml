@@ -19,9 +19,12 @@ spec:
       containers:
       - name: ishaphere-bot
         image: jeanluclariviere/ishaphere-bot:v0.1.0
-        env:
-          - name: DISCORD_TOKEN
-            valueFrom:
-              secretKeyRef:
-                name: discord-token
-                key: DISCORD_TOKEN
+        imagePullPolicy: Always
+        volumeMounts:
+        - name: config
+          mountPath: "/usr/src/app/"
+          readOnly: true
+      volumes:
+      - name: config
+        secret:
+          secretName: ishaphere-config

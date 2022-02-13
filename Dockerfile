@@ -1,5 +1,4 @@
 
-
 # ---- Base Node ----
 FROM node:bullseye-slim AS base
 # set working directory
@@ -24,4 +23,4 @@ COPY --from=dependencies /usr/src/app/prod_node_modules ./node_modules
 # copy app sources
 COPY . .
 
-ENTRYPOINT ["node", "app.js"]
+ENTRYPOINT ["node", "index.js"]
