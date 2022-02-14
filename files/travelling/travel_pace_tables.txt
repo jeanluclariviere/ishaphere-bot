@@ -1,4 +1,4 @@
-__**Travel Pace Table**__
+__**Travel Pace**__
 ```
 ╔════════════════╤════════════════════════════════════════╗
 ║ Pace           │ Speed Modifier    Effect               ║
@@ -9,4 +9,16 @@ __**Travel Pace Table**__
 ║ Normal         │ -                 -                    ║
 ║ Slow           │ -25%              Able to use stealth  ║
 ╚════════════════╧════════════════════════════════════════╝
+```
+
+__**Travel Speeds**__
+```
+╔═════════════╤══════════════════════════════╗
+║ Method      │ Hour           Day           ║
+╟─────────────┼──────────────────────────────╢
+║ On foot     │ 4 kilometers   32 kilometers ║
+║ Pony / Mule │ 5 kilometers   40 kilometers ║
+║ Giant Elk   │ 7 kilometers   56 kilometers ║
+║ Wildcat     │ 9 kilometers   72 kilometers ║
+╚═════════════╧══════════════════════════════╝
 ```

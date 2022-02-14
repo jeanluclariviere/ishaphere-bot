@@ -153,7 +153,7 @@ module.exports = {
                 option.setName('input')
                     .setRequired(true)
                     .setDescription('Travelling in Ishaphere')
-                    .addChoice('Travel Pace Table', 'travelling/travel_pace_Table.txt'))),
+                    .addChoice('Travel Pace Table', 'travelling/travel_pace_tables.txt'))),
     async execute(interaction) {
         await interaction.deferReply();
 
