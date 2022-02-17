@@ -6,21 +6,18 @@ module.exports = {
 		.setName('map')
 		.setDescription('Map of Ishaphere'),
 	async execute(interaction) {
-        await interaction.deferReply();
 
-        try{
-            const messageEmbed = new MessageEmbed()
-            .setTitle('Ishaphere')
-            .setColor('#9013fe')
-            .setImage('https://i.imgur.com/zIxTwLO.jpg')
-            
-            await interaction.editReply({
-                embeds: [ messageEmbed ]
-            });
-        }
-        catch (error) {
-            console.log(error)
-            interaction.reply("There was an error while executing this command!")
-        }
+        await interaction.deferReply({
+            ephemeral: true
+        });
+
+        const messageEmbed = new MessageEmbed()
+        .setTitle('Ishaphere')
+        .setImage('https://i.imgur.com/zIxTwLO.jpg')
+
+        await interaction.editReply({
+            embeds: [ messageEmbed ],
+            ephemeral: true,
+        })
 	},
 };

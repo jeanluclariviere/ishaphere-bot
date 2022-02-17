@@ -155,23 +155,20 @@ module.exports = {
                     .setDescription('Travelling in Ishaphere')
                     .addChoice('Travel Pace Table', 'travelling/travel_pace_tables.txt'))),
     async execute(interaction) {
-        await interaction.deferReply();
 
-        try{
-            var data = fs.readFileSync('files/' + interaction.options.getString('input')).toString()
+        await interaction.deferReply({
+            ephemeral: true
+        });
 
-            const messageEmbed = new MessageEmbed()
-            .setColor('#9013fe')
-            .setDescription(data);
-            
-            await interaction.editReply({
-                embeds: [ messageEmbed ]
-            });
-        }
-        catch (error) {
-            console.log(error)
-            interaction.reply("There was an error while executing this command!")
-        }
+        var data = fs.readFileSync('files/' + interaction.options.getString('input')).toString()
+
+        const messageEmbed = new MessageEmbed()
+        .setDescription(data)
+
+        await interaction.editReply({
+            embeds: [ messageEmbed ],
+            ephemeral: true,
+        })
 
         // fs.readFile('files/' + interaction.options.getString('input'), (err, data) => {    
         //     if (data.length == 0){
