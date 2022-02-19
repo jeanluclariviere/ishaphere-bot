@@ -155,7 +155,6 @@ module.exports = {
                     .setDescription('Travelling in Ishaphere')
                     .addChoice('Travel Pace Table', 'travelling/travel_pace_tables.txt'))),
     async execute(interaction) {
-
         await interaction.deferReply({
             ephemeral: true
         });
