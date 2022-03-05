@@ -1,5 +1,5 @@
 __**Injured**__
-You become injured anytime you are hit with 10 or more damage in a single attack or effect.
+Roll a DC 10 constitution saving throw anytime you are hit with 10 or more damage in a single attack or effect. On a fail, you become injured.
 
 **Once you are injured:**
   - You cannot use Grit Your Teeth
