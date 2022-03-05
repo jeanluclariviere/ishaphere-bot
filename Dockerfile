@@ -21,5 +21,14 @@ FROM base AS release
 # copy production node_modules
 COPY --from=dependencies /usr/src/app/prod_node_modules ./node_modules
 # copy app sources
-COPY . .
-ENTRYPOINT ["node", "index.js"]
+# COPY . .
+RUN mkdir -p /usr/src/app/commands && \
+    mkdir -p /usr/src/app/events && \
+    mkdir -p /usr/src/appfiles
+COPY commands/ /usr/src/app/commands
+COPY events/ /usr/src/app/events
+COPY files/ /usr/src/app/files
+COPY index.js deploy-commands.js start.sh .
+
+RUN chmod u+x start.sh
+ENTRYPOINT ["./start.sh"]
