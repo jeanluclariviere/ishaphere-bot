@@ -1,0 +1,13 @@
+__**Adventuring Gear T-Z**__
+```
+╔══════════════════╤═════════════════════╗
+║ Item             │ Cost   Weight       ║
+╟──────────────────┼─────────────────────╢
+║ Tent, two-person │ 2 gp   20 lb.       ║
+║ Tinderbox        │ 5 sp   1 lb.        ║
+║ Torch            │ 1 cp   1 lb.        ║
+║ Vial             │ 1 gp   -            ║
+║ Waterskin        │ 2 sp   5 lb. (full) ║
+║ Whetstone        │ 1 cp   1 lb.        ║
+╚══════════════════╧═════════════════════╝
+```

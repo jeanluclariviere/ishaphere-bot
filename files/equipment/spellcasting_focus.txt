@@ -1,0 +1,22 @@
+__**Spellcasting Focus**__
+```
+╔════════════════════╤═════════════════════════════════════════════╗
+║ Item               │ Cost    Weight   Item                 Cost  ║
+╟────────────────────┼─────────────────────────────────────────────╢
+║ Arcane Focus       │                  Arcane Focus               ║
+║ Crystal            │ 10 gp   1 lb.    Crystal              10 gp ║
+║ Orb                │ 20 gp   3 lb.    Orb                  20 gp ║
+║ Rod                │ 10 gp   2 lb.    Rod                  10 gp ║
+║ Staff              │ 5 gp    4 lb.    Staff                5 gp  ║
+║ Wand               │ 10 gp   1 lb.    Wand                 10 gp ║
+║ Druidic focus      │                  Druidic focus              ║
+║ Sprig of mistletoe │ 1 gp    -        Sprig of mistletoe   1 gp  ║
+║ Totem              │ 1 gp    -        Totem                1 gp  ║
+║ Wooden staff       │ 5 gp    4 lb.    Wooden staff         5 gp  ║
+║ Yew wand           │ 10 gp   1 lb.    Yew wand             10 gp ║
+║ Holy symbol        │                  Holy symbol                ║
+║ Amulet             │ 5 gp    1 lb.    Amulet               5 gp  ║
+║ Emblem             │ 5 gp    -        Emblem               5 gp  ║
+║ Reliquary          │ 5 gp    2 lb.    Reliquary            5 gp  ║
+╚════════════════════╧═════════════════════════════════════════════╝
+``` 

@@ -1,0 +1,36 @@
+__**Adventuring Geat A-C**__
+```
+╔══════════════════════════════╤════════════════╗
+║ Item                         │ Cost    Weight ║
+╟──────────────────────────────┼────────────────╢
+║ Abacus                       │ 2 gp    2 lb.  ║
+║ Acid (vial)                  │ 25 gp   1 lb.  ║
+║ Alchemist’s fire (flask)     │ 50 gp   1 lb.  ║
+║ Antitoxin (vial)             │ 50 gp   -      ║
+║ Backpack                     │ 2 gp    5 lb.  ║
+║ Ball bearings (bag of 1,000) │ 1 gp    2 lb.  ║
+║ Barrel                       │ 2 gp    70 lb. ║
+║ Basket                       │ 4 sp    2 lb.  ║
+║ Bedroll                      │ 1 gp    7 lb.  ║
+║ Bell                         │ 1 gp    -      ║
+║ Blanket                      │ 5 sp    3 lb.  ║
+║ Block and tackle             │ 1 gp    5 lb.  ║
+║ Book                         │ 25 gp   5 lb.  ║
+║ Bottle, glass                │ 2 gp    2 lb.  ║
+║ Bucket                       │ 5 cp    2 lb.  ║
+║ Caltrops (bag of 20)         │ 1 gp    2 lb.  ║
+║ Candle                       │ 1 cp    -      ║
+║ Case, crossbow bolt          │ 1 gp    1 lb.  ║
+║ Case, map or scroll          │ 1 gp    1 lb.  ║
+║ Chain (10 feet)              │ 5 gp    10 lb. ║
+║ Chalk (1 piece)              │ 1 cp    -      ║
+║ Chest                        │ 5 gp    25 lb. ║
+║ Climber’s kit                │ 25 gp   12 lb. ║
+║ Clothes, common              │ 5 sp    3 lb.  ║
+║ Clothes, costume             │ 5 gp    4 lb.  ║
+║ Clothes, fine                │ 15 gp   6 lb.  ║
+║ Clothes, traveler’s          │ 2 gp    4 lb.  ║
+║ Component pouch              │ 25 gp   2 lb.  ║
+║ Crowbar                      │ 2 gp    5 lb.  ║
+╚══════════════════════════════╧════════════════╝
+```

@@ -1,0 +1,28 @@
+__**Adventuring Gear D-M**__
+```
+╔══════════════════════╤══════════════════╗
+║ Item                 │ Cost     Weight  ║
+╟──────────────────────┼──────────────────╢
+║ Fishing tackle       │ 1 gp     4 lb.   ║
+║ Flask or tankard     │ 2 cp     1 lb.   ║
+║ Grappling hook       │ 2 gp     4 lb.   ║
+║ Hammer               │ 1 gp     3 lb.   ║
+║ Hammer, sledge       │ 2 gp     10 lb.  ║
+║ Healer’s kit         │ 5 gp     3 lb.   ║
+║ Holy water (flask)   │ 25 gp    1 lb.   ║
+║ Hourglass            │ 25 gp    1 lb.   ║
+║ Hunting trap         │ 5 gp     25 lb.  ║
+║ Ink (1 ounce bottle) │ 10 gp    -       ║
+║ Ink pen              │ 2 cp     -       ║
+║ Jug or pitcher       │ 2 cp     4 lb.   ║
+║ Ladder (10 foot)     │ 1 sp     25 lb.  ║
+║ Lamp                 │ 5 sp     1 lb.   ║
+║ Lantern, bullseye    │ 10 gp    2 lb.   ║
+║ Lantern, hooded      │ 5 gp     2 lb.   ║
+║ Lock                 │ 10 gp    1 lb.   ║
+║ Magnifying glass     │ 100 gp   -       ║
+║ Manacles             │ 2 gp     6 lb.   ║
+║ Mess kit             │ 2 sp     1 lb.   ║
+║ Mirror, steel        │ 5 gp     1/2 lb. ║
+╚══════════════════════╧══════════════════╝
+```
