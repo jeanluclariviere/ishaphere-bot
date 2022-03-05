@@ -1,0 +1,21 @@
+__**Volatile Magic  Table**__
+```
+╔═══╤═════════════════════════════════════════════════════════════════════════════════╗
+║ # │ Effect           Description                                                    ║
+╟───┼─────────────────────────────────────────────────────────────────────────────────╢
+║ 1 │ Disaster         Succeed a DC 10 constitution saving throw or suffer 1          ║
+║   │                  level of exhaustion as you fight to regain control of the      ║
+║   │                  thread you’re pulling on. Expend your highest level spell      ║
+║   │                  slot to cast this spell with none of the benefits. If you      ║
+║   │                  cannot, the spell fizzles.                                     ║
+║ 2 │ Rift             A tear opens in space-time, sucking unsecured objects          ║
+║   │                  or creatures into deep space over 1d4 rounds time.             ║
+║ 3 │ Seared           Be stricken with 1d10 arcane damage                            ║
+║ 4 │ Spell sickness   Forget this spell for 1d6 days, or until a long rest in safety ║
+║ 5 │ Dazed            Spend your next turn stunned                                   ║
+║ 6 │ Misfire          Cast the spell, but at a random target or location, including  ║
+║   │                  allies                                                         ║
+║ 7 │ Dud              Nothing happens                                                ║
+║ 8 │ Late             The spell casts, but 1d4 rounds from now                       ║
+╚═══╧═════════════════════════════════════════════════════════════════════════════════╝
+```

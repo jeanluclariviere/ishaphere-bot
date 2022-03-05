@@ -5,7 +5,8 @@ __**Travel Pace**__
 ╟────────────────┼────────────────────────────────────────╢
 ║ Mounted Gallop │ 100% for 1 hour                        ║
 ║ Fast           │ +50%              -5 penalty to Wisdom ║
-║                │                   (perception) scores  ║
+║                │                   (perception/survival)║ 
+║                |                   scores               ║
 ║ Normal         │ -                 -                    ║
 ║ Slow           │ -25%              Able to use stealth  ║
 ╚════════════════╧════════════════════════════════════════╝

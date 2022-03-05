@@ -25,7 +25,8 @@ module.exports = {
                         .addChoice('Half Caster Progression', 'variants/magic/half_caster_progression.txt')
                         .addChoice('Third Caster Progression', 'variants/magic/third_caster_progression.txt')
                         .addChoice('Warlock', 'variants/magic/warlock.txt')
-                        .addChoice('Wizard', 'variants/magic/wizard.txt')))
+                        .addChoice('Wizard', 'variants/magic/wizard.txt')
+                        .addChoice('Volatile Magic Table', 'variants/magic/volatile_magic_table.txt')))
 // Official Variants
         .addSubcommand(subcommand =>
             subcommand
@@ -155,7 +156,6 @@ module.exports = {
                     .setDescription('Travelling in Ishaphere')
                     .addChoice('Travel Pace Table', 'travelling/travel_pace_tables.txt'))),
     async execute(interaction) {
-
         await interaction.deferReply({
             ephemeral: true
         });
@@ -166,7 +166,7 @@ module.exports = {
         .setDescription(data)
 
         await interaction.editReply({
-            embeds: [ messageEmbed ],
+            content: data,
             ephemeral: true,
         })
 
